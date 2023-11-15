@@ -1,0 +1,49 @@
+body{
+    background:linear-gradient(to right,darkred,red,orange,white);
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color:yellow;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    color:yellow;
+}
+.a{
+    height:35px;
+    width:240px;
+    text-align:center;
+    font-weight: bold;
+    color:black;
+    background-color: yellow;
+    border-radius: 25px;
+}
+.p{
+    height:35px;
+    width:120px;
+    text-align:center;
+    font-weight: bold;
+    color:black;
+    background-color: goldenrod;
+    border-radius: 25px;
+}
+.p:hover{
+    height:35px;
+    width:120px;
+    text-align:center;
+    font-weight: bold;
+    color:black;
+    background-color: red;
+    border-radius: 25px;
+}
+.c{
+    height:250px;
+    width:250px;
+    border-radius: 25px;
+}
+.d{
+    height:50px;
+    width:50px;
+}
